@@ -1,0 +1,2 @@
+# SMART PARKING SYSTEM
+In this project we have created a GUI enabled for a Smart Parking System. The system is totally efficient to handle the registration and withdrawal of any number of vehicles in the parking slots. The administrator only needs to configure the parking system. Also, we have implemented an email based alert system to notify the users in case of expiration of maximum time of parking. The user will be able to either update his parking duration or withdraw on expiration of his parking time.
